@@ -59,11 +59,21 @@ table {
 font-family: 'Poppins', sans-serif;
 }
 
+.layer {
+    background-color: rgba(77, 85, 192, 0.61);
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
 
 body {
+    
+    background-size: cover;
     background-attachment: fixed;
-    padding: 50px ;
-    box-shadow: inset 0 0 0 1000px rgba(77, 85, 192, 0.61);
+    padding: 50px;
     background-image: url("01.jpg");
    }
 
