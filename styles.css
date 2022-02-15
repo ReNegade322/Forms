@@ -80,7 +80,7 @@ body {
 
 .tile{
     background-color: rgba(27, 27, 50, 0.8);
-    padding: 50px 40px ;
+    padding: 50px 40px;
     border-radius: 6px;
     width: 700px;
     margin: auto;
@@ -134,7 +134,7 @@ h1{
 
 textarea.input_field{
     height: 120px;
-    min-height: 120px
+    min-height: 120px;
     max-width:100%;  
     margin-top:0; 
     margin-bottom:30px; 
